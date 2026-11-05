@@ -27,11 +27,6 @@ revealjs-plugins:
 
 bibliography: assets/references.bib
 csl: assets/apa.csl
-
-execute:
-  echo: true
-  eval: true
-  engine: knitr
 ---
 
 ## Prerequisites
