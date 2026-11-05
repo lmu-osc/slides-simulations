@@ -8,8 +8,10 @@ authors:
     given-names: "Sarah"
     affiliation: "LMU Open Science Center"
 title: "Running simulations and power analysis in R"
-version: v1.0.0
+version: v1.0.1
+doi: "10.5281/zenodo.23983547"
 date-released: 2026-11-05
+license: CC-BY-SA-4.0
 repository-code: "https://github.com/lmu-osc/slides-simulations"
 url: "https://lmu-osc.github.io/slides-simulations/"
 preferred-citation:
@@ -20,6 +22,7 @@ preferred-citation:
       given-names: "Sarah"
   title: "Running simulations and power analysis in R"
   year: 2026
+  doi: "10.5281/zenodo.23983547"
   repository-code: "https://github.com/lmu-osc/slides-simulations"
   url: "https://lmu-osc.github.io/slides-simulations/"
-  type: "generic"
+  type: "slides"
