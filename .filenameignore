@@ -1,0 +1,8 @@
+# Paths skipped by the automated filename check workflow.
+# Add one glob pattern per line for files or folders that are allowed
+# to use non-kebab-case names (vendored assets, images, extensions, etc.).
+
+assets/logos/*
+_extensions/*
+images/*
+_quarto.yml

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you refer to these slides, please cite them as below."
+authors:
+- family-names: "Sharma"
+  given-names: "Tejaswini"
+  affiliation:
+    - name: "LMU Open Science Center"
+      ror: "https://ror.org/029e6qe04"
+- family-names: "von Grebmer zu Wolfsthurn"
+  given-names: "Sarah"
+  affiliation:
+    - name: "LMU Open Science Center"
+      ror: "https://ror.org/029e6qe04"
+title: "Running simulations and power analysis in R"
+version: 0.0.1
+doi: "DOI_HERE_AFTER_GENERATED"
+date-released: 2026-11-05
+repository-code: "https://github.com/lmu-osc/slides-simulations"
+url: "https://lmu-osc.github.io/slides-simulations/"
+preferred-citation:
+  authors:
+    - family-names: "Sharma"
+      given-names: "Tejaswini"
+    - family-names: "von Grebmer zu Wolfsthurn"
+      given-names: "Sarah"
+  title: "Running simulations and power analysis in R"
+  year: 2026
+  doi: "DOI_HERE_AFTER_GENERATED"
+  publisher:
+    name: "LMU Open Science Center"
+    ror: "https://ror.org/029e6qe04"
+  repository-code: "https://github.com/lmu-osc/slides-simulations"
+  url: "https://lmu-osc.github.io/slides-simulations/"
+  type: "generic"
