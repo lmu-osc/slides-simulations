@@ -1,8 +1,21 @@
-# Paths skipped by the automated filename check workflow.
-# Add one glob pattern per line for files or folders that are allowed
-# to use non-kebab-case names (vendored assets, images, extensions, etc.).
+# Paths to ignore for filename/path validation checks.
+# Patterns use fnmatch syntax and are relative to repo root.
 
+_site/**
+.quarto/**
+.github/**
+_extensions/
+images/**
 assets/logos/*
-_extensions/*
-images/*
+
+# Common documentation files to ignore
+LICENSE-CODE.md
+LICENSE.md
+LICENSE
+README.md
+README
+README-template.md
+CITATION.cff
+CITATION-template.cff
 _quarto.yml
+404.qmd
